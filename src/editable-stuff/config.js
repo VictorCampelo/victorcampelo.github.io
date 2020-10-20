@@ -13,23 +13,19 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://github.com/victorcampelo",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/victor_campelo_/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/victor-campelo-7193a2143/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://twitter.com/Jvictor_cv",
     },
   ],
 };
@@ -54,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/victor.jpg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I see myself as a Machine Learning Engineer and Web Developer. In my free time I like working on open source projects and learning new things. ",
+    "My name is Victor Campelo. I’m a graduate of 2020 from Federal University of Piauí at Teresina/PI with a degree in Computer Science. I see myself as a Machine Learning Engineer, Data Scientist and Backend Developer. In my free time I like working on open source projects and learning new things. I seek to put into practice my knowledge and skills acquired from my academic and professional experiences, new challenges in the area of Data Analysis, Data Mining, Business Intelligence and Machine Learning, and a placement in the job market. I want to continue developing my skills and contributing to the construction of great results in my work environment.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -65,7 +61,7 @@ const about = {
 //      i.e ["repository-1", "repo-2"]
 const repos = {
   show: true,
-  heading: "Recent Projects",
+  heading: "My projects",
   gitHubUsername: "victorcampelo", //i.e."johnDoe12Gh"
   reposLength: 32,
   specificRepos: [],

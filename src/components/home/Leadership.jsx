@@ -7,7 +7,11 @@ const Leadership = ({ heading, message, img, imageSize }) => {
     <div
       id="leadership"
       className="jumbotron jumbotron-fluid m-0"
-      style={{ backgroundColor: "#f8f9fa", paddingTop: "0px", paddingBottom: "0px" }}
+      style={{
+        backgroundColor: "#f8f9fa",
+        paddingTop: "0px",
+        paddingBottom: "0px",
+      }}
     >
       <div className="container container-fluid">
         <h2 className="display-4 pb-5 text-center">{heading}</h2>
@@ -30,10 +34,14 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                       <span>August 2017 - August 2019</span>
                     </h2>
                     <p>
-                      <strong>Scholarship in Infrastructure</strong> To engage
-                      in outreach to students at the campus about
-                      Geeksforgeeks’s study content, courses, opportunities, and
-                      to support all campus workshops by Geeksforgeeks.{" "}
+                      <strong>Scholarship in Infrastructure</strong> Responsible
+                      for the maintenance and installation of computers and
+                      printers (Epson, HP, Lexmark), installation and
+                      configuration of Switch (HP, 3Com, Aruba), Access Point
+                      (Cisco) and routers, configuration of Vlans, Vpn and
+                      servers, report generation, technical visits, use of
+                      Zabbix, IpUfpi, Redmines and Cisco Deepspace, small
+                      JavaScript scripts to assist internal tasks.{" "}
                     </p>
                     <p></p>
                   </div>
