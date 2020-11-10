@@ -38,6 +38,7 @@
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js"
   },
+  "homepage": "https://victorcampelo.github.io/",
   "eslintConfig": {
     "extends": "react-app"
   },

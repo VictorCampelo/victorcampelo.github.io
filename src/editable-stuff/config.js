@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/victor-campelo-7193a2143/",
+      url: "https://www.linkedin.com/in/victor-campelo/",
     },
     {
       image: "fa-twitter",
