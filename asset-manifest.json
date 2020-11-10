@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.581e8272.chunk.css",
-    "main.js": "/static/js/main.612fcc43.chunk.js",
-    "main.js.map": "/static/js/main.612fcc43.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.4007c75a.chunk.js": "/static/js/2.4007c75a.chunk.js",
-    "static/js/2.4007c75a.chunk.js.map": "/static/js/2.4007c75a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7e94efd1a6381f0c92b1f946ce84f234.js": "/precache-manifest.7e94efd1a6381f0c92b1f946ce84f234.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.581e8272.chunk.css.map": "/static/css/main.581e8272.chunk.css.map",
-    "static/js/2.4007c75a.chunk.js.LICENSE.txt": "/static/js/2.4007c75a.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/static/media/resume.8df82657.pdf",
-    "static/media/victor.jpg": "/static/media/victor.a76c5dfd.jpg"
+    "main.css": "https://victorcampelo.github.io/static/css/main.581e8272.chunk.css",
+    "main.js": "https://victorcampelo.github.io/static/js/main.02ed4e56.chunk.js",
+    "main.js.map": "https://victorcampelo.github.io/static/js/main.02ed4e56.chunk.js.map",
+    "runtime-main.js": "https://victorcampelo.github.io/static/js/runtime-main.a6a120e2.js",
+    "runtime-main.js.map": "https://victorcampelo.github.io/static/js/runtime-main.a6a120e2.js.map",
+    "static/js/2.4007c75a.chunk.js": "https://victorcampelo.github.io/static/js/2.4007c75a.chunk.js",
+    "static/js/2.4007c75a.chunk.js.map": "https://victorcampelo.github.io/static/js/2.4007c75a.chunk.js.map",
+    "index.html": "https://victorcampelo.github.io/index.html",
+    "precache-manifest.3275bfd3a63b31419241f1f13ff96d90.js": "https://victorcampelo.github.io/precache-manifest.3275bfd3a63b31419241f1f13ff96d90.js",
+    "service-worker.js": "https://victorcampelo.github.io/service-worker.js",
+    "static/css/main.581e8272.chunk.css.map": "https://victorcampelo.github.io/static/css/main.581e8272.chunk.css.map",
+    "static/js/2.4007c75a.chunk.js.LICENSE.txt": "https://victorcampelo.github.io/static/js/2.4007c75a.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "https://victorcampelo.github.io/static/media/resume.8df82657.pdf",
+    "static/media/victor.jpg": "https://victorcampelo.github.io/static/media/victor.a76c5dfd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.a6a120e2.js",
     "static/js/2.4007c75a.chunk.js",
     "static/css/main.581e8272.chunk.css",
-    "static/js/main.612fcc43.chunk.js"
+    "static/js/main.02ed4e56.chunk.js"
   ]
 }
