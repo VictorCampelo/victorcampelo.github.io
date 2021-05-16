@@ -1,8 +1,6 @@
-import React, { useState, useEffect, Profiler } from "react";
-import Carousel from "react-bootstrap/Carousel";
-import style from "../assets/style.css";
+import React from "react";
 
-const Leadership = ({ heading, message, img, imageSize }) => {
+const Leadership = ({ heading }) => {
   return (
     <div
       id="leadership"
@@ -28,7 +26,7 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                   </div>
                   <div className="timeline-label">
                     <h2>
-                      <a href="#">
+                      <a href="">
                         Superitendência de Tecnologia da Informação - UFPI
                       </a>{" "}
                       <span>August 2017 - August 2019</span>
